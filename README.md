@@ -66,3 +66,25 @@
     - **Usage**: Provides a safe environment for practicing exploitation skills without impacting real systems.
 
 ---
+
+Lab Observations: The System Hacking lab aimed to provide practical experience in exploiting vulnerabilities in target systems using various hacking techniques and tools. The lab covered gaining access to systems, escalating privileges, maintaining access, and clearing logs to cover tracks. Throughout the lab, one or more challenges were encountered, along with valuable insights gained from the process.
+
+Information Gathered:
+1. Password Cracking: Various password cracking techniques were employed, including active online attacks using Responder and password auditing with L0phtCrack. This revealed weak passwords and highlighted the importance of strong password policies.
+   
+2. Vulnerability Exploitation: Exploiting client-side vulnerabilities, such as those in Office documents, demonstrated the significance of patch management and the risk posed by unpatched software.
+
+3. Privilege Escalation: Techniques for escalating privileges were explored, including using privilege escalation tools and exploiting client-side vulnerabilities. This underscored the importance of regularly updating systems and applications to mitigate such risks.
+
+4. Remote Access and Hiding Malicious Activities: Establishing remote access using Armitage and hiding malicious activities through steganography and covert channels illustrated the potential for attackers to maintain persistence and evade detection.
+
+5. Clearing Logs: Methods for clearing logs to conceal evidence of compromise were demonstrated, emphasizing the need for robust logging and monitoring practices to detect suspicious activities.
+
+Key Insights learnt during this Lab Exercise:
+1. Comprehensive Security Measures: The lab reinforced the importance of implementing a multi-layered security approach, including strong password policies, regular patch management, intrusion detection systems, and robust logging and monitoring practices.
+   
+2. Proactive Security Measures: Taking proactive measures such as vulnerability assessments and penetration testing can help identify and remediate vulnerabilities before they are exploited by malicious actors.
+   
+3. Continuous Improvement: Continuous improvement in security practices, including employee training, incident response planning, and staying abreast of emerging threats, is essential to effectively mitigate security risks and protect organizational assets.
+
+This System Hacking lab provided valuable insights into the techniques and challenges associated with exploiting vulnerabilities in target systems. By understanding these vulnerabilities and implementing proactive security measures, organizations can enhance their resilience against cyber threats and safeguard their critical assets.
