@@ -1,14 +1,5 @@
-# System-Hacking
-The System Hacking repository aims at providing you with practical experience in exploiting vulnerabilities in target systems using various hacking techniques and tools. 
-
-
-Here’s a comprehensive report for your **System Hacking Repository**, detailing the tools you've listed along with their educational content and usage:
-
----
-
 ### System Hacking Tools Repository
-
-**Description**: This repository is dedicated to system hacking tools used for penetration testing, exploitation, and post-exploitation activities. Each tool included in this collection serves a specific purpose in the hacking lifecycle, providing insights and methodologies for cybersecurity professionals to understand system vulnerabilities and exploit them responsibly.
+ This repository is dedicated to system hacking tools used for penetration testing, exploitation, and post-exploitation activities. Each tool included in this collection serves a specific purpose in the hacking lifecycle, providing insights and methodologies for cybersecurity professionals to understand system vulnerabilities and exploit them responsibly.
 
 ---
 
